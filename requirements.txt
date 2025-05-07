@@ -1,0 +1,4 @@
+pandas             # for structured data handling
+beautifulsoup4     # for HTML parsing, if needed
+pdfminer.six       # for reading PDF content (if doing PDF validation)
+Pillow
